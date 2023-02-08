@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+
+}
+
+
+.header-section {
+    text-align: center;
+    background-image: url('../images/donation6.jpg');
+    background-position: center;
+    padding-bottom: 140px;
+}
+
+.header {
+    font-weight: 700;
+    font-size: 65px;
+    width: 800px;
+    color: #FFFFFF;
+    padding-top: 174px;
+    margin-left: 250px;
+    margin-right: 300px;
+
+}
+
+.header-description {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 20px 375px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background: #FF5959;
+    border-radius: 5px;
+    /* width: 160px; */
+    height: 56px;
+    border: 0;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.donate {
+    text-align: center;
+}
+
+.donate-today {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 130px;
+
+}
+
+.donate-detail {
+    color: #707070;
+    font-size: 18px;
+    padding: 20px 374px;
+}
+
+.donate-amount {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 30px;
+
+}
+
+.donates {
+    width: 109px;
+    height: 72px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding-top: 44px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.donates:hover {
+    border: 3px solid lightgray;
+}
+
+.donate-fix {
+    width: 109px;
+    height: 72px;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    padding-top: 44px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.donate-fix:hover {
+    border: 3px solid blue;
+}
+
+.amount {
+    color: #707070;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.other-amount {
+    text-align: center;
+    font-size: 18px;
+    color: #B3B3B3;
+    margin-top: 30px;
+}
+
+hr {
+    margin: 30px 335px;
+}
+
+.btn-other {
+    text-align: center;
+}
+
+.donate-plan {
+    text-align: center;
+
+}
+
+.our-donate-plan {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 100px;
+}
+
+.our-description {
+    font-size: 18px;
+    color: #707070;
+    margin: 20px 375px;
+}
+
+.foods-section {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.shelter-section {
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+    width: 360px;
+    height: 352px;
+}
+
+.food-section {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    width: 360px;
+    height: 352px;
+}
+
+.education-section {
+    border-radius: 5px;
+    width: 360px;
+    height: 352px;
+    background-color: lightskyblue;
+}
+
+.icon {
+    padding-left: 23px;
+    padding-top: 63px;
+}
+
+.food {
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+    padding-left: 23px;
+    padding-top: 31px;
+}
+
+.food-description {
+    color: #707070;
+    padding-left: 23px;
+    padding-top: 16px;
+}
+
+.donation-section {
+    display: flex;
+    margin: 110px 156px;
+    gap: 83px
+}
+
+.donation {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 20px;
+
+}
+
+.donation-detail {
+    color: #707070;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.image {
+    width: 456px;
+    height: 477px;
+}
+
+.update {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+}
+
+.update-detail {
+    color: #707070;
+    font-size: 18px;
+    margin: 20px 375px;
+}
+
+.update-section {
+    text-align: center;
+}
+
+.email-btn {
+    text-align: center;
+
+    /* height: 76px; */
+    margin: 50px 315px;
+    background: #FFF4D6;
+    padding: 76px 170px;
+}
+
+.email {
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    width: 150px;
+    height: 50px;
+}
+
+.footer {
+    text-align: center;
+    background: #0B0D17;
+    padding-top: 43px;
+    margin-top: 110px;
+}
+
+.footer-head {
+    font-size: 36px;
+    color: #FF5959;
+}
+
+.footer-detail {
+    color: #D9DBE1;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
